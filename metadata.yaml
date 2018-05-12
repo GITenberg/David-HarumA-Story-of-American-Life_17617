@@ -1,0 +1,30 @@
+_repo: David-HarumA-Story-of-American-Life_17617
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Westcott, Edward Noyes
+    birthdate: 1847
+    deathdate: 1898
+    gutenberg_agent_id: '7496'
+    url: http://www.gutenberg.org/2009/agents/7496
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2006-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17617'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bankers -- Fiction'
+- !lcsh 'New York (State) -- Fiction'
+- !lcc 'PS'
+title: 'David Harum
+
+  A Story of American Life'
+url: http://www.gutenberg.org/ebooks/17617
