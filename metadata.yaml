@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '7496'
     url: http://www.gutenberg.org/2009/agents/7496
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17617#David-HarumA-Story-of-American-Life
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2006-01-28'
 gutenberg_type: Text
